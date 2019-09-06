@@ -1,0 +1,21 @@
+{
+  "name": "spotifychallenge",
+  "version": "1.0.0",
+  "description": "This is a challenge for a workshop about Spotify's Api Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice",
+    "api-spotify"
+  ],
+  "author": "Miguel Angel Osorio Sanchez <miguelangel0699u@gmail.com> (github.com/barbMiguel)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
