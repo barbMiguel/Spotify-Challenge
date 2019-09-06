@@ -1,2 +1,2 @@
-# SPotify-Challenge
-# SPotify-Challenge
+# Spotify-Challenge
+# Spotify-Challenge
